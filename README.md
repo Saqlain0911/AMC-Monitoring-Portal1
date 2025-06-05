@@ -1,4 +1,4 @@
-<table style="width:98%;">
+<table style="width:100%;">
   <tr>
     <td>
       <h1 style="color: #00008B">AMC Monitoring Portal</h1>
