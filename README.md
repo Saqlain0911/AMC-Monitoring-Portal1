@@ -1,4 +1,14 @@
-# AMC Monitoring Portal
+<table style="width:98%;">
+  <tr>
+    <td>
+      <h1 style="color: #00008B">AMC Monitoring Portal</h1>
+    </td>
+    <td align="right" style="width: 150px;">
+      <img src="docs/drdo-logo.png" alt="DRDO Logo" height="75" style="border-radius: 50%;">
+    </td>
+  </tr>
+</table>
+
 
 **Organization:** ADRDE (DRDO), Agra </br>
 **Description:** Internship team project </br>
@@ -33,7 +43,8 @@ main
       └─ to-be-added-soon
 ```
 
-### Branching Guidelines
+## Branching Guidelines
+
 1. **Base Branches**
    - `main`: Protected, deployable.
    - `dev`: Protected, integration for all feature work.
@@ -53,11 +64,11 @@ main
 4. Push to your fork.
 5. Open a Pull Request targeting `dev`.
 
-Please adhere to the branching guidelines above.
+Please follow this branching guidelines.
 
-
-## Documentation
 Additional notes will be added in the `/docs` folder.
 
+## 
 
-_Thank you for contributing and making this project a success!_
+
+_Thank you for coming to contribute and putting this project on a way to success!_
