@@ -1,6 +1,6 @@
-<table style="width: 98%;">
+<table style="width: 100%;">
   <tr>
-    <td style="vertical-align: middle;">
+    <td>
       <h1 style="color: #00008B;">AMC Monitoring Portal</h1>
     </td>
     <td align="right" style="width: 150px; vertical-align: middle;">
@@ -18,9 +18,10 @@
 
 
 ## Project Overview
-The AMC (Annual Maintenance Contract) Monitoring Portal is a task management system designed to efficiently oversee, schedule, and report daily, weekly, and monthly maintenance activities under AMC agreements. The portal provides role-based access, real-time dashboards, alerts, and compliance tracking to streamline IT infrastructure maintenance.
+The AMC (Annual Maintenance Contract) Monitoring Portal is a task management system designed to efficiently oversee, schedule, and report daily, weekly, and monthly tracking under AMC agreements. The portal provides role-based access, real-time dashboards, alerts, and compliance tracking to streamline IT infrastructure maintenance.
 
-### Key Features
+
+## Key Features
 - **Dashboard Overview**
 - **Task Categories**
 - **Task Assignment & Scheduling**
@@ -43,33 +44,3 @@ main
       ├─ to-be-added-soon
       └─ to-be-added-soon
 ```
-
-## Branching Guidelines
-
-1. **Base Branches**
-   - `main`: Protected, deployable.
-   - `dev`: Protected, integration for all feature work.
-2. **Feature Branches**
-   - Create off `dev`: `area/feature-name` (e.g. `frontend/login-page`).
-   - Commit frequently with clear messages: `FE: add login form validation`.
-3. **Pull Requests**
-   - Target branch: `dev`. `"KEEP IT IN MIND ALWAYS"`
-   - Require at least 1 review before merge.
-   - Use **Squash & Merge** to keep history clean.
-
-
-## Contribution
-1. Fork the repository.
-2. Create a feature branch off `dev`.
-3. Commit your changes.
-4. Push to your fork.
-5. Open a Pull Request targeting `dev`.
-
-Please follow this branching guidelines.
-
-Additional notes will be added in the `/docs` folder.
-
-## 
-
-
-_Thank you for coming to contribute and putting this project on a way to success!_
