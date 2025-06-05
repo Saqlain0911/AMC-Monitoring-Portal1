@@ -3,7 +3,7 @@
     <td style="vertical-align: middle;">
       <h1 style="color: #00008B;">AMC Monitoring Portal</h1>
     </td>
-    <td align="left" style="width: 150px; vertical-align: middle;">
+    <td align="right" style="width: 150px; vertical-align: middle;">
       <img src="docs/drdo-logo.PNG" alt="DRDO Logo" height="75" style="border-radius: 50%;">
     </td>
   </tr>
@@ -11,7 +11,8 @@
 
 
 **Organization:** ADRDE (DRDO), Agra </br>
-**Description:** Internship team project </br>
+**Description:** Team-based project conducted on-site during the internship at ADRDE (DRDO).
+</br>
 **Internship Duration:** 4 Weeks </br>
 **Team Size:** 9 Members </br>
 
