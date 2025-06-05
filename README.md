@@ -18,7 +18,7 @@
 
 
 ## Project Overview
-The AMC (Annual Maintenance Contract) Monitoring Portal is a task management system designed to efficiently oversee, schedule, and report daily, weekly, and monthly maintenance activities under AMC agreements. The portal provides role-based access, real-time dashboards, alerts, and compliance tracking to streamline IT infrastructure maintenance.
+The AMC (Annual Maintenance Contract) Monitoring Portal is a task management system designed to efficiently oversee, schedule, and report daily, weekly, and monthly tracking under AMC agreements. The portal provides role-based access, real-time dashboards, alerts, and compliance tracking to streamline IT infrastructure maintenance.
 
 
 ## Key Features
