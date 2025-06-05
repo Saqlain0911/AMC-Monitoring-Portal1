@@ -1,9 +1,9 @@
-<table style="width:100%;">
+<table style="width: 98%;">
   <tr>
-    <td>
-      <h1 style="color: #00008B">AMC Monitoring Portal</h1>
+    <td style="vertical-align: middle;">
+      <h1 style="color: #00008B;">AMC Monitoring Portal</h1>
     </td>
-    <td align="left" style="width: 150px;">
+    <td align="left" style="width: 150px; vertical-align: middle;">
       <img src="docs/drdo-logo.PNG" alt="DRDO Logo" height="75" style="border-radius: 50%;">
     </td>
   </tr>
