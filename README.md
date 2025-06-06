@@ -1,4 +1,4 @@
-<table style="width: 100%;">
+<table border="0" style="width: 100%;">
   <tr>
     <td align="right" style="width: 150px; vertical-align: middle;">
       <img src="docs/drdo-logo.PNG" alt="DRDO Logo" height="75" style="border-radius: 50%;">
