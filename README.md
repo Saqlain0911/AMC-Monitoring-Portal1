@@ -4,7 +4,7 @@
       <img src="docs/drdo-logo.PNG" alt="DRDO Logo" height="75" style="border-radius: 50%;">
     </td>
     <td>
-      <h1 style="color: #00008B;">AMC Monitoring Portal</h1><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+      <h1 style="color: #00008B;">AMC Monitoring Portal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h1>
     </td>
   </tr>
 </table>
